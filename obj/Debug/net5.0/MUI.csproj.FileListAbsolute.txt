@@ -1,0 +1,16 @@
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.exe
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.deps.json
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.runtimeconfig.json
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.runtimeconfig.dev.json
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.dll
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\ref\MUI.dll
+C:\Users\myatmon\source\repos\MUI\MUI\bin\Debug\net5.0\MUI.pdb
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.AssemblyInfoInputs.cache
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.AssemblyInfo.cs
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.csproj.CoreCompileInputs.cache
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.dll
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\ref\MUI.dll
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.pdb
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.genruntimeconfig.cache
+C:\Users\myatmon\source\repos\MUI\MUI\obj\Debug\net5.0\MUI.csprojAssemblyReference.cache
